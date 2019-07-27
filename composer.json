@@ -2,7 +2,7 @@
     "name": "interneduclub/laravel-mautic-api",
     "description": "Free and Open Source Marketing Automation API",
     "license": "MIT",
-    "keywords": ["mautic","laravel","lumen","princealikhan","api","sync","automation","email","marketing"],
+    "keywords": ["mautic","laravel","lumen","api","sync","automation","email","marketing"],
     "authors": [
         {
             "name": "Mustafa Yildiz",
